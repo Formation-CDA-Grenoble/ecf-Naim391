@@ -70,15 +70,25 @@ Comme personne n'est parfait, il n'est pas exclu que cet examen contienne des co
 
 - A combien de types d'utilisateurs le projet s'adresse-t-il? Nommez chacun de ces types.
 
-> _Ma réponse:_
+> _Ma réponse:_ Le projet s'adresse à deux utilisateurs. Celui qui publie ( romain tello ) et ceux qui lisent ( les fidèles lecteur)
 
 - Combien d'applications faudra-t-il créer et quel sera le type de chacun d'entre elle?
 
-> _Ma réponse:_
+> _Ma réponse:_ 3 Application. Un pour celui qui publie ( personnel ) et l'autre pour les utilisateurs ( ouvert au public )
 
 - Quelles sont les fonctionnalités principales du projet? Listez-les par ordre de priorité (de la plus importante à la moins importante).
 
 > _Ma réponse:_
+1 : Faire un site pour lire, plus d'éditeur plus de libraires ou les personnes ont leur application pour directement lire les livres
+2 : Du coté de R avoir un site pour poster les livres
+3 : Derrière poster les chapitres les uns derrières les autres
+4 : Les personnes : Directement voir la liste publié, voir les chapitres,cliquer sur les chaptires, les lires
+Bonus 5 : Quand on lit un chapitre, mettre des likes, partager sur les reseaux 
+Base , mots clé :
+- Livres
+- chapitres
+- avec leur application
+
 
 #### 💻 Travail à réaliser
 
@@ -103,7 +113,8 @@ Inclure votre production dans le dépôt Git, ou le **lien de partage** du table
 
 - A quoi le plan du site ressemblera-t-il? Quelle page permettra de passer à quelle autre?
 
-> _Ma réponse:_
+> _Ma réponse:_ 
+On aura une page d'accueii, ou par la suite on pourra voir les nouveaux chapitres, livres, auteur que tu auras publier, puis on pourra tourner à la page suivante, pour lires les chapitres etc. Ensuite on pourra cliquer en haut à droit et partager sur les reseaux sociaux du site. Nous pourrions directement aimé sur les reseaux et ça nous mettrais une notification sur l'application, du nombre de personne qui à liker et la fréquences du site. De temps en temps, faire des petits sondages sur les reseaux sociaux et voir le meilleur livre sur l'applicatio. Il y aura un top 3 sur l'application.
 
 #### 💻 Travail à réaliser
 
@@ -111,7 +122,7 @@ A l'aide de l'outil de votre choix (outil suggéré: https://wireframe.cc), réa
 
 Inclure vos productions dans le dépôt Git, dans un dossier **mockups**, ou le **lien de partage** de chacun de vos wireframes (attention, sur wireframe.cc, ne pas oublier de cliquer sur **Save**, sinon tous votre travail est perdu!).
 
-> _Liens de partage de mes wireframes:_
+> _Liens de partage de mes wireframes:_https://wireframe.cc) ( je navais pas beaucoup d'inspiration mais j'ai quand même essayé )
 
 #### Bonus
 
@@ -129,7 +140,7 @@ Réaliser des maquettes (incluant couleurs, fontes, et autres éléments de desi
 
 - Choisiriez-vous plutôt une base de données de type SQL, ou NoSQL pour ce projet? Justifiez votre choix.
 
-> _Ma réponse:_
+> _Ma réponse:_ SQL, car il y a des données de livres. Je ne sais pas comment expliqué mais moi j'utiliserai une base de données SQL
 
 - Combien d'entités sont-elles nécessaires pour ce projet, et que représenterait chacune d'entre elles? Quelles propriétés pourraient-elles avoir?
 
@@ -145,7 +156,7 @@ A l'aide de l'outil de votre choix (outil suggéré: [Lucidchart](https://www.lu
 
 Inclure votre production dans votre dépôt ou donner le **lien de partage** de votre fichier.
 
-> _Lien de partage de mon MCD:_
+> _Lien de partage de mon MCD:_ Je reverrais la réponse lors du cours car j'ai oublié.
 
 Puis, à l'aide de l'interface de votre choix (outil suggéré: PHPMyAdmin pour une base de données MySQL/MariaDB), créez le schéma de base de données (tables, colonnes...) nécessaire au bon fonctionnement du projet.
 
